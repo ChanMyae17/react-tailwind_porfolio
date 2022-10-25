@@ -10,7 +10,7 @@ const Home = () => {
        <div className='max-w-screen-lg mx-auto justify-center items-center flex flex-col h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-xs sm:text-lg font-bold text-center mb-6 text-green-400'>
-                    Hello,I am
+                    Hello, I am
                 </h2>
                 <h2 className='text-4xl sm:text-7xl text-white font-black mb-6 font-myname'>
                    CHAN MYAE MIN
